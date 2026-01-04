@@ -1,0 +1,15 @@
+# Build files
+build/
+.gradle/
+*.class
+*.jar
+*.apk
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YTKllZ30pn0=",
+  "success": true,
+  "projectFilePath": "/data/data/org.smartide.code/files/home/projects/Csharp/Csharp.csproj",
+  "expectedPackageFiles": [
+    "/data/data/org.smartide.code/files/home/.nuget/packages/accord/3.8.0/accord.3.8.0.nupkg.sha512",
+    "/data/data/org.smartide.code/files/home/.nuget/packages/accord.math/3.8.0/accord.math.3.8.0.nupkg.sha512",
+    "/data/data/org.smartide.code/files/home/.nuget/packages/mathnet.numerics/5.0.0/mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
